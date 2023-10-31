@@ -1,33 +1,32 @@
 [
-    {
-    "title": "Cien años de soledad",
-    "author": "Gabriel García Márquez",
-    "genre": "Realismo mágico",
-    "year": 1967
-    },
-    {
+  {
     "title": "1984",
     "author": "George Orwell",
     "genre": "Distopía",
     "year": 1949
-    },
-    {
+  },
+  {
     "title": "Matar un ruiseñor",
     "author": "Harper Lee",
     "genre": "Novela",
     "year": 1960
-    },
-    {
+  },
+  {
     "title": "Don Quijote de la Mancha",
     "author": "Miguel de Cervantes",
     "genre": "Novela de caballería",
     "year": 1605
-    },
-    {
+  },
+  {
     "title": "El gran Gatsby",
     "author": "F. Scott Fitzgerald",
     "genre": "Novela",
     "year": 1925
-    }
-    ]
-  
+  },
+  {
+    "title": "Gorga",
+    "author": "Gabriel García Márquez",
+    "genre": "Realismo mágico",
+    "year": 1967
+  }
+]
